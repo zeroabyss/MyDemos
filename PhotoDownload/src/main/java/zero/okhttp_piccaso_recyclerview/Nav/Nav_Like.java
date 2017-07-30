@@ -32,7 +32,10 @@ import zero.okhttp_piccaso_recyclerview.OnItemListen;
 import zero.okhttp_piccaso_recyclerview.R;
 import zero.okhttp_piccaso_recyclerview.database.My_Down;
 import zero.okhttp_piccaso_recyclerview.database.My_Like;
-
+/**
+ *任务描述： 我的收藏的界面
+ *创建时间： 2017/7/30 23:58
+ */
 public class Nav_Like extends AppCompatActivity {
     private RecyclerView recyclerView;
     private static final String TAG = "Nav_Like";

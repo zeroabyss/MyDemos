@@ -46,6 +46,10 @@ import zero.okhttp_piccaso_recyclerview.Nav.Nav_down;
 import zero.okhttp_piccaso_recyclerview.database.My_Down;
 import zero.okhttp_piccaso_recyclerview.database.My_Like;
 
+/**
+ *任务描述： 程序的主界面
+ *创建时间： 2017/7/30 23:58
+ */
 public class MainActivity extends AppCompatActivity {
     private static final String TAG = "MainActivity";
     /**

@@ -3,7 +3,8 @@ package zero.okhttp_piccaso_recyclerview.database;
 import org.litepal.crud.DataSupport;
 
 /**
- * Created by Aiy on 2017/5/15.
+ *任务描述： 这是“我的收藏”的数据库表
+ *创建时间： 2017/7/30 23:58
  */
 
 public class My_Like extends DataSupport {

@@ -18,7 +18,8 @@ import java.util.Date;
 import java.util.GregorianCalendar;
 
 /**
- * Created by Aiy on 2016/12/3.
+ *任务描述： 这是一个DialogFragment，可以选择时间
+ *创建时间： 2017/7/30 23:50
  */
 
 public class DatePickerFragment extends DialogFragment {

@@ -26,7 +26,10 @@ import okhttp3.Response;
 
 import static com.bumptech.glide.gifdecoder.GifHeaderParser.TAG;
 
-
+/**
+ *任务描述： 执行下载任务的后台服务
+ *创建时间： 2017/7/30 23:56
+ */
 public class MyIntentService extends IntentService {
     public static final String PATH="zero.MyIntentService.path";
     public static final String NAME="zero.MyIntentService.name";
