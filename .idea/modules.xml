@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BaiduMap/BaiduMap.iml" filepath="$PROJECT_DIR$/BaiduMap/BaiduMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ContentResolver/ContentResolver.iml" filepath="$PROJECT_DIR$/ContentResolver/ContentResolver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Crime/Crime.iml" filepath="$PROJECT_DIR$/Crime/Crime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DownloadService/DownloadService.iml" filepath="$PROJECT_DIR$/DownloadService/DownloadService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstApp/FirstApp.iml" filepath="$PROJECT_DIR$/FirstApp/FirstApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Manage/Manage.iml" filepath="$PROJECT_DIR$/Manage/Manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Message/Message.iml" filepath="$PROJECT_DIR$/Message/Message.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyDemos.iml" filepath="$PROJECT_DIR$/MyDemos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PhotoDownload/PhotoDownload.iml" filepath="$PROJECT_DIR$/PhotoDownload/PhotoDownload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unit/unit.iml" filepath="$PROJECT_DIR$/unit/unit.iml" />
+    </modules>
+  </component>
+</project>

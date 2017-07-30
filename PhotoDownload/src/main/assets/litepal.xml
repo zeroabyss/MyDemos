@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<litepal>
+    <dbname value="downfile"/>
+    <version value="3"/>
+    <list>
+        <mapping class="zero.okhttp_piccaso_recyclerview.database.My_Down"/>
+        <mapping class="zero.okhttp_piccaso_recyclerview.database.My_Like"/>
+    </list>
+</litepal>

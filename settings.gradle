@@ -1,0 +1,2 @@
+include ':unit', 'PhotoDownload', 'DownloadService', 'Crime', 'FirstApp', 'Manage', 'BaiduMap', 'Message'
+include 'ContentResolver'

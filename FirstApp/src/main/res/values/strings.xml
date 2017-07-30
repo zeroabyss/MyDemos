@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">First</string>
+    <string name="zero">zero</string>
+    <string name="abyss">abyss</string>
+    <string name="centerText">  To the world ,you maybe a person,but to one person,you maybe the world</string>
+    <string name="zeroToast">回答正确</string>
+    <string name="abyssToast">回答错误</string>
+    <string name="next">next</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+
+    <string name="checkButton">check</string>
+    <string name="checkText">what are you doing?</string>
+    <string name="show_answer">show answer</string>
+    <string name="cheater">你作弊了</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">学籍管理系统</string>
+    <string name="pager_ex_name">姓&#160;&#160;名&#160;&#160;:&#160;&#160;</string>
+    <string name="Main_Text_View">学籍管理系统</string>
+    <string name="Main_Id">&#160;&#160;&#160;&#160;学号:</string>
+    <string name="Main_Password">&#160;&#160;&#160;&#160;密码:</string>
+    <string name="Main_Button">登录</string>
+</resources>
