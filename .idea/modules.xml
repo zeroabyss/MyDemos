@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Anime/Anime.iml" filepath="$PROJECT_DIR$/Anime/Anime.iml" />
       <module fileurl="file://$PROJECT_DIR$/BaiduMap/BaiduMap.iml" filepath="$PROJECT_DIR$/BaiduMap/BaiduMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/ContentResolver/ContentResolver.iml" filepath="$PROJECT_DIR$/ContentResolver/ContentResolver.iml" />
       <module fileurl="file://$PROJECT_DIR$/Crime/Crime.iml" filepath="$PROJECT_DIR$/Crime/Crime.iml" />
