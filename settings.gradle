@@ -1,2 +1,2 @@
-include ':unit', 'PhotoDownload', 'DownloadService', 'Crime', 'FirstApp', 'Manage', 'BaiduMap', 'Message', 'Anime'
+include ':unit', 'PhotoDownload', 'DownloadService', 'Crime', 'FirstApp', 'Manage', 'BaiduMap', 'Message', 'Anime', 'DialogFragment'
 include 'ContentResolver'
