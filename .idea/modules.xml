@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/DialogFragment/DialogFragment.iml" filepath="$PROJECT_DIR$/DialogFragment/DialogFragment.iml" />
       <module fileurl="file://$PROJECT_DIR$/DownloadService/DownloadService.iml" filepath="$PROJECT_DIR$/DownloadService/DownloadService.iml" />
       <module fileurl="file://$PROJECT_DIR$/FirstApp/FirstApp.iml" filepath="$PROJECT_DIR$/FirstApp/FirstApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LruCache/LruCache.iml" filepath="$PROJECT_DIR$/LruCache/LruCache.iml" />
       <module fileurl="file://$PROJECT_DIR$/Manage/Manage.iml" filepath="$PROJECT_DIR$/Manage/Manage.iml" />
       <module fileurl="file://$PROJECT_DIR$/Message/Message.iml" filepath="$PROJECT_DIR$/Message/Message.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyDemos.iml" filepath="$PROJECT_DIR$/MyDemos.iml" />
