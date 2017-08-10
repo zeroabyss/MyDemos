@@ -5,6 +5,7 @@ import android.animation.ValueAnimator;
 
 /**
  * <p>功能简述：PointEvaluator是为了计算Point的改变量，因为ObjectAnimator是可以任何类型的，所以里面要有个计算器，所以ofFloat也好都是有一个TypeEvaluator，可以实现这个类进行动画.
+ * <p>顺便这里可以指定泛型<Point>更好可以免去类型转换 </p>
  * <p>Created by Aiy on 2017/7/31.
  */
 public class PointEvaluator implements TypeEvaluator {
@@ -26,4 +27,6 @@ public class PointEvaluator implements TypeEvaluator {
         oa.setDuration(2000);
         oa.start();
     }
+
+
 }

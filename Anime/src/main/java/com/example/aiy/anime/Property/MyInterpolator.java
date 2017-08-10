@@ -4,6 +4,7 @@ import android.view.animation.Interpolator;
 
 /**
  * <p>功能简述：实现一个先减速后加速的interpolator(速度变化控制器)
+ * <p>与TypeEvaluator区别在于：Type是控制具体变量的变化值，而interpolator是控制动画播放速度</p>
  * <p>Created by Aiy on 2017/8/1.
  */
 

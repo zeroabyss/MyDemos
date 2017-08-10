@@ -1,13 +1,14 @@
 package com.example.aiy.anime.Property;
 
 import android.animation.TypeEvaluator;
+import android.annotation.TargetApi;
 import android.graphics.Color;
 
 /**
  * <p>功能简述：这是个颜色变化的TypeEvaluator，因为颜色是int值所以这里选用泛型
  * <p>Created by Aiy on 2017/8/1.
  */
-
+@TargetApi(11)
 public class ColorTypeEvaluator implements TypeEvaluator<Integer> {
     @Override
     public Integer evaluate(float fraction, Integer startValue, Integer endValue) {
