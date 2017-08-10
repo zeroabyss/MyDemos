@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/iv"
+        android:scaleType="matrix"
+        android:src="@drawable/ic_action_name"/>
+    <android.support.v4.view.ViewPager
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:id="@+id/view_pager">
+<!--
+    这里没办法两个同时使用，后来的会覆盖前面的，虽然控件是显示出来了，但是前者不会动
+-->
+<!--        <android.support.v4.view.PagerTitleStrip
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top"
+            />-->
+        <android.support.v4.view.PagerTabStrip
+            android:layout_width="match_parent"
+            android:id="@+id/pager_tab_strip"
+            android:layout_gravity="bottom"
+            android:layout_height="wrap_content"/>
+    </android.support.v4.view.ViewPager>
+
+</LinearLayout>
