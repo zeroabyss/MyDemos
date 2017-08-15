@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Bitmap</string>
+    <string name="contentDescription">item</string>
 </resources>

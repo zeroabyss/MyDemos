@@ -1,4 +1,4 @@
-package com.example.aiy.bitmap;
+package com.example.aiy.bitmap.LC;
 
 import android.content.res.Resources;
 import android.graphics.Bitmap;
@@ -10,6 +10,9 @@ import android.util.LruCache;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
+
+import com.example.aiy.bitmap.R;
+
 /**
  *任务描述： 这是简单的Lrucache应用，以及图片的缩小比例使用.
  *创建时间： 2017/8/7 21:36
@@ -58,7 +61,6 @@ public class Main2Activity extends AppCompatActivity implements View.OnClickList
        // iv.setImageBitmap(BitmapFactory.decodeResource(getResources(),R.drawable.s01));
         //开始加载图片
         loadBitmap(R.drawable.s11, iv);
-
 
     }
     /**

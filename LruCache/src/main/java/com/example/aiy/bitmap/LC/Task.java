@@ -1,8 +1,10 @@
-package com.example.aiy.bitmap;
+package com.example.aiy.bitmap.LC;
 
 import android.graphics.Bitmap;
 import android.os.AsyncTask;
 import android.widget.ImageView;
+
+import com.example.aiy.bitmap.LC.Main2Activity;
 
 /**
  * <p>功能简述：后台异步加载图片
