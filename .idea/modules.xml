@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/Message/Message.iml" filepath="$PROJECT_DIR$/Message/Message.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyDemos.iml" filepath="$PROJECT_DIR$/MyDemos.iml" />
       <module fileurl="file://$PROJECT_DIR$/PhotoDownload/PhotoDownload.iml" filepath="$PROJECT_DIR$/PhotoDownload/PhotoDownload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/View/View.iml" filepath="$PROJECT_DIR$/View/View.iml" />
       <module fileurl="file://$PROJECT_DIR$/ViewPager/ViewPager.iml" filepath="$PROJECT_DIR$/ViewPager/ViewPager.iml" />
       <module fileurl="file://$PROJECT_DIR$/unit/unit.iml" filepath="$PROJECT_DIR$/unit/unit.iml" />
     </modules>

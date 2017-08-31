@@ -19,6 +19,7 @@
             <option value="$PROJECT_DIR$/Manage" />
             <option value="$PROJECT_DIR$/Message" />
             <option value="$PROJECT_DIR$/PhotoDownload" />
+            <option value="$PROJECT_DIR$/View" />
             <option value="$PROJECT_DIR$/ViewPager" />
             <option value="$PROJECT_DIR$/unit" />
           </set>
