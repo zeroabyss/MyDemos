@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--创建attrs.xml 然后写如下代码，之后在layout中-->
+<!--xmlns:custom(这个custom可以随便定义)="http://schemas.android.com/apk/res-auto"-->
+<!--然后使用custom:custom_text=""或者custom:custom_ssy就可以使用，可能不会自动弹出补全-->
+<!--之后在代码中写入下列代码
+    TypedArray ta=context.obtainStyledAttributes(attrs,R.styleable.custom_view);
+    String s=ta.getString(R.styleable.custom_view_custom_text);
+    boolean b=ta.getBoolean(R.styleable.custom_view_custom_ssy,false);
+    ta.recycle();-->
+<resources>
+    <declare-styleable name="custom_view">
+        <attr name="custom_text" format="string"/>
+        <attr name="custom_ssy" format="boolean"/>
+    </declare-styleable>
+</resources>

@@ -1,10 +1,13 @@
 package com.example.aiy.view;
 
 import android.content.Context;
+import android.content.res.TypedArray;
 import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Paint;
 import android.graphics.Path;
+import android.support.annotation.Nullable;
+import android.util.AttributeSet;
 import android.view.MotionEvent;
 import android.view.View;
 
@@ -39,6 +42,8 @@ public class Gesture_View extends View {
         //paint.setStrokeWidth(5);
         paint.setAntiAlias(true);
     }
+
+
     /**
      * 方法简述： onDraw很简单，就是画一下path
      */
