@@ -33,7 +33,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- *任务描述： 这是简单的ViewPager使用,使用FragmentPagerActivity的话请修改Manifest
+ *任务描述： Layoutinflater的三种获得方法,这是简单的ViewPager使用,使用FragmentPagerActivity的话请修改Manifest
  *创建时间： 2017/8/10 21:49
  */
 public class MainActivity extends AppCompatActivity {
